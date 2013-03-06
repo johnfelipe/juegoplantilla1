@@ -1,0 +1,32 @@
+﻿.txtControl
+{
+}
+
+.interactionSize
+{
+}
+
+.dest{
+border:1px solid #000000;
+border-collapse:collapse;
+width:200px;
+}
+.dest td{
+background:transparent;
+padding: 0px; 
+border:1px solid #000000;
+height:75px;
+}
+.source{
+border-collapse:collapse;
+}
+
+
+
+.source td{
+padding: 0px; 
+border-collapse:collapse;
+background:transparent;
+
+}
+
